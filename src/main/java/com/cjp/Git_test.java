@@ -8,5 +8,6 @@ public class Git_test {
     public static void main(String[] args) {
         System.out.printf("nihao");
         System.out.printf("nihao2");
+        System.out.printf("nihao3");
     }
 }
