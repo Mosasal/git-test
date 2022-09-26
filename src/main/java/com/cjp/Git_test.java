@@ -7,5 +7,6 @@ package com.cjp;
 public class Git_test {
     public static void main(String[] args) {
         System.out.printf("nihao");
+        System.out.printf("nihao2");
     }
 }
