@@ -9,5 +9,6 @@ public class Git_test {
         System.out.printf("nihao");
         System.out.printf("nihao2");
         System.out.printf("nihao3");
+        System.out.printf("nihao4");
     }
 }
