@@ -11,5 +11,6 @@ public class Git_test {
         System.out.printf("nihao3");
         System.out.printf("nihao4");
         System.out.printf("push");
+        System.out.printf("pull");
     }
 }
